@@ -1,10 +1,12 @@
 # Colab Siamese Neural Networks for One shot Image Recognition
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FWuoFKMzvOC91bKeVvp-IAkPxm5AHPh9?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1TDjk36ia5rTXQPHpAgfwZvPDmXbHetui?usp=sharing)
 
-A ready to go implementation of the ["Siamese Neural Networks for One-shot Image Recognition"](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) paper [in PyTorch on Google Colab](https://colab.research.google.com/drive/1FWuoFKMzvOC91bKeVvp-IAkPxm5AHPh9?usp=sharing) with training and testing on the [Omniglot](https://github.com/brendenlake/omniglot)/custom datasets.
+A ready to go implementation of the ["Siamese Neural Networks for One-shot Image Recognition"](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf) paper [in PyTorch on Google Colab](https://colab.research.google.com/drive/1TDjk36ia5rTXQPHpAgfwZvPDmXbHetui?usp=sharing) with training and testing on the [Omniglot](https://github.com/brendenlake/omniglot)/custom datasets.
 
-## Training Loss Graph(loss saved every 50 epochs)
+## Training Loss Graph ( Trained for 80 Epochs )
 
-![Screenshot](omniglot_loss_new.PNG)
+![Screenshot](graphs/loss_siamese.PNG)
 
-### Still working on improving the implementation.
+## Accuracy Graph ( Accuracy of 86.42% )
+
+![Screenshot](graphs/Accuracy.PNG)
