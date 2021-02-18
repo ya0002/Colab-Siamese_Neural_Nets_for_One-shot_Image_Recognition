@@ -7,6 +7,6 @@ A ready to go implementation of the ["Siamese Neural Networks for One-shot Image
 
 ![Screenshot](graphs/loss_siamese.PNG)
 
-## Accuracy Graph ( Accuracy of 86.42% )
+## Accuracy Graph ( Accuracy of 91% )
 
 ![Screenshot](graphs/Accuracy.PNG)
